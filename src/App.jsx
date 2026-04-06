@@ -6,7 +6,7 @@ function App() {
       <header className="navbar">
         <div className="container navbar-inner">
           <div className="nav-brand">
-            <h3>Sistema de Gestión de Limpieza</h3>
+            <h3>           Sistema de Gestión de Limpieza</h3>
           </div>
         </div>
       </header>
